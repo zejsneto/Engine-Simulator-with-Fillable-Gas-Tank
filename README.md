@@ -4,7 +4,9 @@
 
 Engine simulator with fillable gas tank made with Assembly language and Edsim 8051 system.<br>
 
-Engine information appears on the display, it is possible to adjust the power of the project engine using the Edsim51 engine itself and buttons 0 and 1 (renamed to M and G, respectively) are used for M - start the engine, G - fuel the tank.
+Engine information appears on the display, it is possible to adjust the power of the project engine using the Edsim51 engine itself and buttons 0 and 1 (renamed to M and G, respectively) are used for M - start the engine, G - fuel the tank.<br>
+
+⚠️Some parts of the code may be written in Portuguese-BR, please use google translator if you need.
 
 ## 👁️‍🗨️ Preview 
 <p align="center">
